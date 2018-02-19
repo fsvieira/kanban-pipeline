@@ -1,6 +1,6 @@
 {
   "name": "kanban-pipeline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A processing pipeline based on kanban methodology.",
   "main": "index.js",
   "scripts": {
